@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{	
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+.header{	
+	background-color: #338e7d;
+	min-height: 70px;
+}
+
+.heading{
+	color: #ffffff;	
+	text-align: center;
+}
+
+.header h1{
+	padding-top: 15px;
+}
+
+.wrapper{
+	overflow: hidden;  
+}
+
+.contact{	
+	background-color: #66aa9d;
+	min-height: 400px;
+	width: 50%;
+	float: left;
+}
+
+.wrapper h2{
+	padding-top: 190px;
+}
+
+.blog{
+	background-color: #73c6b6;
+	min-height: 400px;
+	width: 50%;
+	float: right;
+}
+
+.footer{
+	background-color: #5ca08e;
+	min-height: 150px;
+	/*clear: both;  */
+}
+
+.footer h3{
+	padding-top: 67px;
+}
